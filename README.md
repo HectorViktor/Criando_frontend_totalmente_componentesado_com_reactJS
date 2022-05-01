@@ -1,4 +1,4 @@
-# ⚛️ Criando frontend totalmente componentesado com reactJS ⚛ ⚛️
+# ⚛️ Criando frontend totalmente componentesado com reactJS ⚛️
 Desafio da Digital Innovation One: Bootcamp Spread Fullstack Developer
 
 # Começando com Create React App 
